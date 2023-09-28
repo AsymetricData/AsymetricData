@@ -1,8 +1,8 @@
 ## 👋 About Me
+- Former Economics teacher turned developer 📚💻
 - PHP and Go developer 🚀
 - Enthusiast of TALL Stack (TailwindCSS, AlpineJS, Livewire, Laravel) and [Hyperf](https://github.com/hyperf/hyperf) 🌟
-- Former Economics teacher turned developer 📚💻
-- Co-founder of [**Dcolle.fr**](https://dcolle.fr), an EdTech plateform 🎓
+- Co-founder of [**Dcolle.fr**](https://dcolle.fr), an EdTech platform 🎓
 
 ### 🌟 Projects
 #### [🐳 Sei: A Docker container management script for Hyperf-based apps](https://github.com/AsymetricData/sei) 
