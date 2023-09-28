@@ -14,4 +14,4 @@
 - Track progress and support educators
   
 ## 📫 Let's Connect
-Connect with me on GitHub
+Connect with me on GitHub or email me at : [asymetricdata@proton.me](mailto:asymetricdata@proton.me)
