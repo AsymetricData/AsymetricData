@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👋 About Me
+- PHP and Go developer 🚀
+- Enthusiast of TALL Stack (TailwindCSS, AlpineJS, Livewire, Laravel) and [Hyperf](https://github.com/hyperf/hyperf) 🌟
+- Former Economics teacher turned developer 📚💻
+- Co-founder of dcolle.fr, an EdTech plateform 🎓
 
-<!--
-**AsymetricData/AsymetricData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Projects
+#### 🐳 Sei: A Docker container management script for Hyperf-based apps
+- Simplify Docker container management
+- Enhance Hyperf development efficiency
+  
+#### 🚀 Dcolle.fr: An innovative digital training platform 📈
+- Empower students to excel
+- Track progress and support educators
+  
+## 📫 Let's Connect
+Connect with me on GitHub
