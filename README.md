@@ -5,11 +5,11 @@
 - Co-founder of [**Dcolle.fr**](https://dcolle.fr), an EdTech plateform 🎓
 
 ### 🌟 Projects
-#### [🐳 Sei: A Docker container management script for Hyperf-based apps](https://github.com/AsymetricData/sei)
+#### 🐳 Sei: A Docker container management script for Hyperf-based apps [Go](https://github.com/AsymetricData/sei) 
 - Simplify Docker container management
 - Enhance Hyperf development efficiency
   
-#### [🚀 Dcolle.fr: An innovative digital training platform 📈](https://dcolle.fr/github)
+#### 🚀 Dcolle.fr: An innovative digital training platform 📈[Go](https://dcolle.fr/github)
 - Empower students to excel
 - Track progress and support educators
   
